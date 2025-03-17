@@ -4,21 +4,29 @@ A comprehensive collection of **Data Structures and Algorithms (DSA)** implement
 ---
 
 ## 📂 **Project Structure**  
-The repository is organized into different categories of data structures and algorithms:
+The repository is organized into two main sections:
 
 ```
 dsa-csharp/
-├── Arrays/
-├── LinkedLists/
-├── Stacks/
-├── Queues/
-├── Trees/
-├── Graphs/
-├── Hashing/
-├── Sorting/
-├── Searching/
-├── DynamicProgramming/
-├── Recursion/
+├── CSharpBasics/           # Getting started with C# basics
+│   ├── DataTypes/
+│   ├── ControlStructures/
+│   ├── Methods/
+│   ├── ClassesAndObjects/
+│   ├── Collections/
+│   └── LINQ/
+├── DSA/                    # Data Structures and Algorithms
+│   ├── Arrays/
+│   ├── LinkedLists/
+│   ├── Stacks/
+│   ├── Queues/
+│   ├── Trees/
+│   ├── Graphs/
+│   ├── Hashing/
+│   ├── Sorting/
+│   ├── Searching/
+│   ├── DynamicProgramming/
+│   └── Recursion/
 └── README.md
 ```
 
