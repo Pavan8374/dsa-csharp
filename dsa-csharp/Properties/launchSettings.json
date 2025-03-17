@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dsa-csharp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>dsa_csharp</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PublishAot>true</PublishAot>
+    <InvariantGlobalization>true</InvariantGlobalization>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="CSharpBasics\ControlStructures\" />
+    <Folder Include="CSharpBasics\Methods\" />
+    <Folder Include="CSharpBasics\ClassesAndObjects\" />
+    <Folder Include="CSharpBasics\Collections\" />
+    <Folder Include="CSharpBasics\LINQ\" />
+    <Folder Include="dsa\Arrays\" />
+    <Folder Include="dsa\LinkedLists\" />
+    <Folder Include="dsa\Graphs\" />
+    <Folder Include="dsa\Hashing\" />
+    <Folder Include="dsa\DynamicProgramming\" />
+    <Folder Include="dsa\" />
+    <Folder Include="dsa\Recursion\" />
+    <Folder Include="dsa\Searching\" />
+    <Folder Include="dsa\Sorting\" />
+    <Folder Include="dsa\Trees\" />
+    <Folder Include="dsa\Queues\" />
+    <Folder Include="dsa\Stacks\" />
+  </ItemGroup>
+
+</Project>
