@@ -20,7 +20,6 @@
     <Folder Include="CSharpBasics\ControlStructures\" />
     <Folder Include="CSharpBasics\Methods\" />
     <Folder Include="CSharpBasics\ClassesAndObjects\" />
-    <Folder Include="CSharpBasics\Collections\" />
     <Folder Include="CSharpBasics\LINQ\" />
     <Folder Include="dsa\Arrays\" />
     <Folder Include="dsa\LinkedLists\" />

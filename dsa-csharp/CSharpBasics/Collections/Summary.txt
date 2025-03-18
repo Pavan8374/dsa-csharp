@@ -1,0 +1,53 @@
+﻿
+🔹 What are Collections in C#?
+
+	Collections in C# are classes that store and manage groups of objects. 
+	They provide dynamic memory allocation and flexible data manipulation, unlike arrays which have a fixed size.
+
+Types of Collections in C#
+==========================
+	1. Non-Generic Collections (from System.Collections)
+	2. Generic Collections (from System.Collections.Generic)
+	3. Concurrent Collections (from System.Collections.Concurrent)
+
+1. Non-Generic Collections
+==========================
+	Non-generic collections store objects as object type and require typecasting.
+
+Examples:
+---------
+	ArrayList: Can store elements of different types. Dynamic in size.
+	Hashtable: Stores key-value pairs. Keys are unique.
+	SortedList: Combination of ArrayList and Hashtable. Maintains elements in sorted order by key.
+	Stack: Last In First Out (LIFO).
+	Queue: First In First Out (FIFO).
+	BitArray: Manages an array of bit values (true/false). Size is fixed upon creation. 
+
+
+ 2. Generic Collections
+ ======================
+	Generic collections are type-safe and avoid boxing/unboxing.
+	Namespace : System.Collections.Generic
+	Generic collections provide type safety and better performance.
+
+ Examples:
+ ---------
+	List<T>: Similar to an array but resizable. T represents an generic entity like class, record, etc, datatypes like int, string, etc.
+	Dictionary<TKey, TValue> : Key-value pairs. Fast lookup by key.
+	SortedList<TKey, TValue> : Key-value pairs in sorted order.
+	Stack<T> : Last In First Out (LIFO).
+	Queue<T> : First In First Out (FIFO).
+    HashSet<T> : Unordered collection of unique elements.
+
+3. Concurrent Collections
+=========================
+	Thread-safe collections designed for multi-threading scenarios.
+
+Examples:
+---------
+	ConcurrentBag<T> : Unordered, allows duplicates.
+    ConcurrentDictionary<TKey, TValue> : Thread-safe key-value pair collection.
+	ConcurrentQueue<T> : Thread-safe First In First Out (FIFO).
+	ConcurrentStack<T> : Thread-safe Last In First Out (LIFO).
+
+
