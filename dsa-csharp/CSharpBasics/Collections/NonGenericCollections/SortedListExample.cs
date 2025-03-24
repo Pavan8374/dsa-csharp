@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     public class SortedListExample
     {
-        static void Main()
+        static void SortedListExampleMain()
         {
             SortedList list = new SortedList();
 

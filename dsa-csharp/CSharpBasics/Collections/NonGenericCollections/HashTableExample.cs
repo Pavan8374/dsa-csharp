@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     public class HashTableExample
     {
-        static void Main()
+        static void HashTableExampleMain()
         {
             Hashtable table = new Hashtable();
 

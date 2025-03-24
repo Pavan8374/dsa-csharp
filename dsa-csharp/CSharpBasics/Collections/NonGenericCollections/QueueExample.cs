@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     public class QueueExample
     {
-        static void Main()
+        static void QueueExampleMain()
         {
             Queue queue = new Queue();
 

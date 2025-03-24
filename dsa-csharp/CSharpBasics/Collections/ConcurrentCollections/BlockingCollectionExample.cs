@@ -19,7 +19,7 @@ namespace dsa_csharp.CSharpBasics.Collections.ConcurrentCollections
     /// </summary>
     public class BlockingCollectionExample
     {
-        static void Main()
+        static void ExampleMain()
         {
             BlockingCollection<int> collection = new BlockingCollection<int>(5); // Bounded size
 

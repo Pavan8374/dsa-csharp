@@ -20,7 +20,7 @@ namespace dsa_csharp.CSharpBasics.Collections.ConcurrentCollections
     /// </summary>
     public class ConcurrentQueueExample
     {
-        static void Main()
+        static void ConcurrentQueueExampleMain()
         {
             // Create a ConcurrentQueue
             ConcurrentQueue<int> queue = new ConcurrentQueue<int>();

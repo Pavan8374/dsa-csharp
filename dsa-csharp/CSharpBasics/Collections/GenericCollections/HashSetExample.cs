@@ -20,7 +20,7 @@
     /// </summary>
     public class HashSetExample
     {
-        static void Main()
+        static void HashSetExampleMain()
         {
             // Create a HashSet of integers
             HashSet<int> numbers = new HashSet<int>();

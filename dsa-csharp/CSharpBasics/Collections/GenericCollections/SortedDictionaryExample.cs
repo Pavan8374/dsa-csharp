@@ -50,7 +50,7 @@ namespace dsa_csharp.CSharpBasics.Collections.GenericCollections
 
     public class SortedDictionaryExample
     {
-        static void Main()
+        static void SortedDictionaryExampleMain()
         {
             // Create a SortedDictionary
             SortedDictionary<int, string> sortedDict = new SortedDictionary<int, string>();

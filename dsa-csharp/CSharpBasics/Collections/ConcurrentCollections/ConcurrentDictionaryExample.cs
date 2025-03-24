@@ -24,7 +24,7 @@ namespace dsa_csharp.CSharpBasics.Collections.ConcurrentCollections
     /// </summary>
     public class ConcurrentDictionaryExample
     {
-        static void Main()
+        static void ConcurrentDictionaryExampleMain()
         {
             // Create a ConcurrentDictionary
             ConcurrentDictionary<int, string> dictionary = new ConcurrentDictionary<int, string>();

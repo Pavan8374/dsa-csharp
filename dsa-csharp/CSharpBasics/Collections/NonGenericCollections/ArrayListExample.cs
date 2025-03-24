@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     public class ArrayListExample
     {
-        static void Main()
+        static void ArrayListExampleMain()
         {
             ArrayList list = new ArrayList();
 

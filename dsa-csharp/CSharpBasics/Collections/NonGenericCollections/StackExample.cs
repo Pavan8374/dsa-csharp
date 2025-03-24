@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     class StackExample
     {
-        static void Main()
+        static void StackExampleMain()
         {
             Stack stack = new Stack();
 

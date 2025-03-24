@@ -26,7 +26,7 @@
         /// </summary>
         public class ConcurrentBagExample
         {
-            static void Main()
+            static void ConcurrentBagExampleMain()
             {
                 // ✅ Create a ConcurrentBag
                 ConcurrentBag<int> bag = new ConcurrentBag<int>();

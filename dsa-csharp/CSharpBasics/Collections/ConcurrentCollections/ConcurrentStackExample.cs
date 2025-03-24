@@ -23,7 +23,7 @@ namespace dsa_csharp.CSharpBasics.Collections.ConcurrentCollections
     /// </summary>
     public class ConcurrentStackExample
     {
-        static void Main()
+        static void ConcurrentStackExampleMain()
         {
             // Create a ConcurrentStack
             ConcurrentStack<int> stack = new ConcurrentStack<int>();

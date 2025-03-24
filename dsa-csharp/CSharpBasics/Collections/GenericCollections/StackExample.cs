@@ -41,7 +41,7 @@
                - Used to explore all possible paths in a graph or tree.
         */
 
-        static void Main()
+        static void StackExampleMain()
         {
             // --------------------------
             // Stack<int> - Basic integer stack

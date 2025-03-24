@@ -42,7 +42,7 @@
                - Store nodes and explore them level by level.
         */
 
-        static void Main()
+        static void QueueExampleMain()
         {
             // --------------------------
             // Queue<int> - Basic integer queue

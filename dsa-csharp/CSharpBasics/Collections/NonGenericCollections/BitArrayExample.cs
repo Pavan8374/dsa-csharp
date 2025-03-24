@@ -4,7 +4,7 @@ namespace dsa_csharp.CSharpBasics.Collections.NonGenericCollections
 {
     public class BitArrayExample
     {
-        static void Main()
+        static void BitArrayExampleMain()
         {
             BitArray bits = new BitArray(5); // Creates a BitArray of size 5.
 

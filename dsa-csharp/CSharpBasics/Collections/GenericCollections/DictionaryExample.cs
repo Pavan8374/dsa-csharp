@@ -45,7 +45,7 @@
                - Use it to store frequently accessed data.
         */
 
-        static void Main()
+        static void DictionaryExampleMain()
         {
             // --------------------------
             // Dictionary<int, string> - Basic Integer to String Mapping

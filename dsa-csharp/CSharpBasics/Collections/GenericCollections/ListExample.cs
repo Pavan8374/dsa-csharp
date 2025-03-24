@@ -44,7 +44,7 @@
                - Use when quick access to specific elements is required.
         */
 
-        static void Main()
+        static void ListExampleMain()
         {
             // --------------------------
             // List<int> - Basic Integer List

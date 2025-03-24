@@ -1,4 +1,4 @@
-﻿using dsa_csharp.CSharpBasics.DataTypes;
+﻿using dsa_csharp.CSharpBasics.Problems;
 
 namespace dsa_csharp
 {
@@ -6,7 +6,9 @@ namespace dsa_csharp
     {
         static void Main(string[] args)
         {
-            DataType.Run();
+            //DataType.Run();
+            //ReverseAString.ReverseString();
+            PalindromeCheck.Palindrome_Check();
         }
     }
 }
