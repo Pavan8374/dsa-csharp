@@ -2,6 +2,7 @@
 {
     public class ReverseAString
     {
+        // Write a function to reverse a string without using built-in functions.
 
         public static void ReverseString()
         {

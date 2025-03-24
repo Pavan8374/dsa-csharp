@@ -2,6 +2,8 @@
 {
     public class PalindromeCheck
     {
+        // Check if a given string is a palindrome (reads the same forward and backward).
+
         public static void Palindrome_Check()
         {
             Console.WriteLine("Enter input:");
