@@ -34,7 +34,7 @@
                 //1. 1
                 //2. 1,2
                 
-                map[nums[i]] = i;
+                map[nums[i]] = i;  //storing the index as key
             }
 
             if(!map.Any())

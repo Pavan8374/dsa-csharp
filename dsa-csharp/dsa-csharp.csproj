@@ -22,11 +22,9 @@
     <Folder Include="CSharpBasics\ClassesAndObjects\" />
     <Folder Include="CSharpBasics\LINQ\" />
     <Folder Include="dsa\Arrays\" />
-    <Folder Include="dsa\LinkedLists\" />
     <Folder Include="dsa\Graphs\" />
     <Folder Include="dsa\Hashing\" />
     <Folder Include="dsa\DynamicProgramming\" />
-    <Folder Include="dsa\" />
     <Folder Include="dsa\Recursion\" />
     <Folder Include="dsa\Searching\" />
     <Folder Include="dsa\Sorting\" />
