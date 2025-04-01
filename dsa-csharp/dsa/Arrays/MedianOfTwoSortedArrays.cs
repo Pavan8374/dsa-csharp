@@ -51,7 +51,7 @@
 
             int m = nums1.Length, n = nums2.Length;
             int left = 0, right = m;
-
+        
             while (left <= right)
             {
                 int i = (left + right) / 2;  // Partition index for nums1

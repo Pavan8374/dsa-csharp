@@ -1,5 +1,6 @@
 ﻿using dsa_csharp.CSharpBasics.Problems;
 using dsa_csharp.dsa.Arrays;
+using dsa_csharp.dsa.LeetCodeProblems;
 using dsa_csharp.dsa.LinkedLists;
 using dsa_csharp.dsa.Strings.SlidingWindow;
 
@@ -46,8 +47,11 @@ namespace dsa_csharp
 
             //double median = MedianOfTwoSortedArrays.FindMedianSortedArrays([22, 10, 19, 5,1], [18, 4, 6, 3, 7, 14]);
             //double median = MedianOfTwoSortedArrays.FindMedianSortedArrays([1,2,3,4,5], [6,7,8,9,10]);
-            double median = MedianOfTwoSortedArrays.Find_MedianSortedArrays([1, 2], [3, 4]);
-            Console.WriteLine($"Result: {median}");
+            //double median = MedianOfTwoSortedArrays.Find_MedianSortedArrays([1, 2], [3, 4]);
+            //Console.WriteLine($"Result: {median}");
+
+            var str = LongestPalindromicSubstring.Find_Longest_Palindrometic_Substring("aba");
+            Console.WriteLine($"Result: {str}");
         }
     }
 }
