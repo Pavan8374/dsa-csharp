@@ -1,4 +1,3 @@
-﻿Great! Now, let's break down **how to identify the right approach for a problem** and **why these names (like Sliding Window, Two Pointers) exist**. 🚀
 
 ---
 
@@ -79,9 +78,3 @@ The names like **Sliding Window, Two Pointers, Dynamic Programming, etc.** come 
 
 ---
 
-## **🚀 Summary**
-- Look for **problem patterns** (e.g., substring, pairs, best choice, sorting).
-- Choose the **right algorithm** (Sliding Window, Two Pointers, DP, etc.).
-- Names like **Sliding Window** and **Two Pointers** come from common problem-solving strategies.
-
-Would you like me to recommend problems for practice based on these approaches? 😊
