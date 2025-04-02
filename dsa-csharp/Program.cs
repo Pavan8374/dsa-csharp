@@ -50,8 +50,9 @@ namespace dsa_csharp
             //double median = MedianOfTwoSortedArrays.Find_MedianSortedArrays([1, 2], [3, 4]);
             //Console.WriteLine($"Result: {median}");
 
-            var str = LongestPalindromicSubstring.Find_Longest_Palindrometic_Substring("aba");
-            Console.WriteLine($"Result: {str}");
+            //var result = OrderedTripletI.MaximumTripletValue([12, 6, 1, 2, 7]);
+            var result = OrderedTripletI.MaximumTripletValue([1, 10, 3, 4, 19]);
+            Console.WriteLine($"Result: {result}");
         }
     }
 }
