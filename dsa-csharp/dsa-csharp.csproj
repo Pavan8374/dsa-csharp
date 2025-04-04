@@ -21,7 +21,6 @@
     <Folder Include="CSharpBasics\Methods\" />
     <Folder Include="CSharpBasics\ClassesAndObjects\" />
     <Folder Include="CSharpBasics\LINQ\" />
-    <Folder Include="dsa\Graphs\" />
     <Folder Include="dsa\Hashing\" />
     <Folder Include="dsa\Recursion\" />
     <Folder Include="dsa\Sorting\" />
