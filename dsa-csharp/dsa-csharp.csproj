@@ -24,7 +24,6 @@
     <Folder Include="dsa\Hashing\" />
     <Folder Include="dsa\Recursion\" />
     <Folder Include="dsa\Sorting\" />
-    <Folder Include="dsa\Trees\" />
     <Folder Include="dsa\Queues\" />
     <Folder Include="dsa\Stacks\" />
   </ItemGroup>
