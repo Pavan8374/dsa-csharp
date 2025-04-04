@@ -23,7 +23,6 @@
     <Folder Include="CSharpBasics\LINQ\" />
     <Folder Include="dsa\Graphs\" />
     <Folder Include="dsa\Hashing\" />
-    <Folder Include="dsa\DynamicProgramming\" />
     <Folder Include="dsa\Recursion\" />
     <Folder Include="dsa\Sorting\" />
     <Folder Include="dsa\Trees\" />
