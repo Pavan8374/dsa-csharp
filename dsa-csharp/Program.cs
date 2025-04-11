@@ -1,6 +1,7 @@
 ﻿using dsa_csharp.CSharpBasics.Problems;
 using dsa_csharp.dsa.Arrays;
 using dsa_csharp.dsa.LeetCodeProblems;
+using dsa_csharp.dsa.LeetCodeProblems.DailyProblems;
 using dsa_csharp.dsa.LinkedLists;
 using dsa_csharp.dsa.Strings.SlidingWindow;
 
@@ -51,8 +52,10 @@ namespace dsa_csharp
             //Console.WriteLine($"Result: {median}");
 
             //var result = OrderedTripletI.MaximumTripletValue([12, 6, 1, 2, 7]);
-            var result = OrderedTripletI.MaximumTripletValue([1, 10, 3, 4, 19]);
-            Console.WriteLine($"Result: {result}");
+            //var result = OrderedTripletI.MaximumTripletValue([1, 10, 3, 4, 19]);
+            //Console.WriteLine($"Result: {result}");
+            int result = CountSymmetricIntegers.Count_Symmetric_Integers(40, 100);
+            Console.WriteLine(result);
         }
     }
 }
