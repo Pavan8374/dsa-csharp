@@ -1,5 +1,6 @@
 ﻿using dsa_csharp.CSharpBasics.Problems;
 using dsa_csharp.dsa.Arrays;
+using dsa_csharp.dsa.Easy;
 using dsa_csharp.dsa.LeetCodeProblems;
 using dsa_csharp.dsa.LeetCodeProblems.DailyProblems;
 using dsa_csharp.dsa.LinkedLists;
@@ -54,7 +55,9 @@ namespace dsa_csharp
             //var result = OrderedTripletI.MaximumTripletValue([12, 6, 1, 2, 7]);
             //var result = OrderedTripletI.MaximumTripletValue([1, 10, 3, 4, 19]);
             //Console.WriteLine($"Result: {result}");
-            int result = CountSymmetricIntegers.Count_Symmetric_Integers(40, 100);
+            //int result = CountSymmetricIntegers.Count_Symmetric_Integers(40, 100);
+            //Console.WriteLine(result);
+            bool result = PalindromeNumber.IsPalindrome(121);
             Console.WriteLine(result);
         }
     }
