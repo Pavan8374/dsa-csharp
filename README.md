@@ -69,11 +69,6 @@ Use the .NET CLI to build the project:
 dotnet build
 ```
 
-### **Run Tests**  
-```bash
-dotnet test
-```
-
 ---
 
 ## 💡 **How to Contribute**  
