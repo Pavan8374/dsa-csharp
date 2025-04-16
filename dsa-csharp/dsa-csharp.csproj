@@ -19,7 +19,7 @@
   <ItemGroup>
     <Folder Include="CSharpBasics\ControlStructures\" />
     <Folder Include="CSharpBasics\Methods\" />
-    <Folder Include="CSharpBasics\ClassesAndObjects\" />
+    <Folder Include="CSharpBasics\OOPs\" />
     <Folder Include="CSharpBasics\LINQ\" />
     <Folder Include="dsa\Hashing\" />
     <Folder Include="dsa\Recursion\" />
